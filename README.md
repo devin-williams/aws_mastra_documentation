@@ -284,26 +284,10 @@ We are going to use the `deploy-to-agentcore.py` script to create our agent runt
 
 Now head over to the `Agent Sandbox` under `Test` on the sidebar, select your agent, and test!
 
-Input should be:
+Input (use any of `inputs`, `prompt`, or `message` as the key):
 
 ```json
 {
   "inputs": "What is the weather like in San Francisco?"
-}
-```
-
-Or alternatively:
-
-```json
-{
-  "prompt": "What is the weather like in San Francisco?"
-}
-```
-
-Or:
-
-```json
-{
-  "message": "What is the weather like in San Francisco?"
 }
 ```
