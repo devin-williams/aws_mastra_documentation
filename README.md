@@ -1,5 +1,7 @@
 # Deploying a Mastra Agent to Bedrock AgentCore
 
+Created by: Devin Williams
+
 |    Information     |          Details          |
 | :----------------: | :-----------------------: |
 | Agentic Framework  |         Mastra AI         |
